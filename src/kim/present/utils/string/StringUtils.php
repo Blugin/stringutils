@@ -22,9 +22,9 @@
 
 declare(strict_types=1);
 
-namespace blugin\utils\string;
+namespace kim\present\utils\string;
 
-class StringUtil{
+class StringUtils{
     private function __construct(){
     }
 
