@@ -22,7 +22,7 @@
 
 declare(strict_types=1);
 
-namespace kim\present\utils\string;
+namespace kim\present\lib\stringutils;
 
 class StringUtils{
     private function __construct(){
